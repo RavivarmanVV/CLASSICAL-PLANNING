@@ -122,11 +122,11 @@ print(plan)
 
 # Output -1 :
 
-![alt text](images/image.png)
+<img width="1823" height="339" alt="image" src="https://github.com/user-attachments/assets/a2e66b41-6315-4be8-aa8f-179bde683111" />
 
 # Output -2 :
 
-![alt text](images/image-2.png)
+<img width="1808" height="367" alt="image" src="https://github.com/user-attachments/assets/692f8086-859c-4334-9236-72cdacc11234" />
 
 # Result :
 
